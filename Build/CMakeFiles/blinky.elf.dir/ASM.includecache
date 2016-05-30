@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wangxian/Code/STM32/STM32F7/STM32F7-CMake-FreeRTOS-Template/Drivers/CMSIS/Device/Source/startup/startup_stm32f746xx.s
+

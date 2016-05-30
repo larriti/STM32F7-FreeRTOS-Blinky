@@ -1,0 +1,8 @@
+-I.
+-IDrivers/CMSIS/Device/Include
+-IDrivers/CMSIS/Include
+-IDrivers/STM32F7xx_HAL_Driver/Inc
+-IFreeRTOS/Include
+-IUser/Include
+-DUSE_HAL_DRIVER
+-DSTM32F746xx

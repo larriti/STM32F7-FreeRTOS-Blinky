@@ -1,0 +1,4 @@
+/home/wangxian/Code/STM32/STM32F7/STM32F7-CMake-FreeRTOS-Template/FreeRTOS/Build/CMakeFiles/edit_cache.dir
+/home/wangxian/Code/STM32/STM32F7/STM32F7-CMake-FreeRTOS-Template/FreeRTOS/Build/CMakeFiles/rebuild_cache.dir
+/home/wangxian/Code/STM32/STM32F7/STM32F7-CMake-FreeRTOS-Template/FreeRTOS/Build/CMakeFiles/clean-all.dir
+/home/wangxian/Code/STM32/STM32F7/STM32F7-CMake-FreeRTOS-Template/FreeRTOS/Build/CMakeFiles/STM32F7xx_FreeRTOS.dir
